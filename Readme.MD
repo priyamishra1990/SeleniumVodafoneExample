@@ -1,1 +1,1 @@
-Add chromdriver.exe to exefiles package before running.
+Add required driver exes to exefiles package before running.
